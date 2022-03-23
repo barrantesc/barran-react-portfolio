@@ -1,0 +1,36 @@
+.a {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-start; */
+    text-align: center;
+    background-color: #363636;
+    color: #BCB4B4;
+
+}
+.a-left,
+.a-right {
+    flex: 1;
+}
+
+.a-left  {
+    margin: 3.5%;
+    font-size: 18px;
+}
+
+p {
+    width: 95%;
+    line-height: 1.2;
+    margin: 3.5%;
+}
+ 
+ .a-button {
+    display: flex;
+    justify-content: center;
+ }
+
+/* .a-card {
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+} */
