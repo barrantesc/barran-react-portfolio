@@ -16,7 +16,7 @@ const About = () => {
 
                 <h2> Skills </h2>
                 <div className="aboutSection__buttons">
-                    <a href='' download="" className='a-button'>
+                    <a href='../../Software Resume 2022.pdf' download="" className='a-button'>
                         <button> Download CV </button> </a>
                 </div>
             </div>
