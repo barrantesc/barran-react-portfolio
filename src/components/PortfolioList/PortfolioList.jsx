@@ -1,6 +1,6 @@
 import React from 'react'
 import "./portfolioList.css"
-import Portfolio from "../Portfolio/Portfolio.js"
+import Portfolio from "../Portfolio/Portfolio.jsx"
 import { portfolio } from '../../data'
 
 const PortfolioList = () => {
