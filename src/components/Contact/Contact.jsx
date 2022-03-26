@@ -1,5 +1,5 @@
 import React from 'react';
-import Contact from './contact.css';
+import './contact.css';
 import Phone from '../../img/#.png';
 import Email from '../../img/letter.png';
 import Github from '../../img/GH.png';
