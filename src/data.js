@@ -1,5 +1,5 @@
-import sheetShow from './img/SheetShow-img.png'
-import weatherApp from './img/WeatherApp-img.png'
+import sheetShow from './img/sheet-show.png'
+import weatherApp from './img/weather-app.png'
 import purrfectFriend from './img/PurrfectFriend-img.gif'
 import noteTaker from './img/NoteTaker-img.png'
 import simplePlanner from './img/Planner-img.png'
