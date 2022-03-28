@@ -14,7 +14,17 @@ const About = () => {
                     I am a freelance website designer and developer from Charlotte, North Carolina. I am currently in the UNC Charlotte coding bootcamp. I hope you like my creations.
                 </p>
 
-                <h2> Skills </h2>
+                <h2 className='a-skills'> Skills </h2>
+                <ul className='a-skill-list'>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Javascript</li>
+                    <li>jQuery</li>
+                    <li>Node.js</li>
+                    <li>React</li>
+                    <li>VS Code</li>
+                    <li>Github</li>
+                </ul>
                 <div className="a-button">
                     <a href='../../Software Resume 2022.pdf' download="" className='a-button'>
                         <button> Download CV </button> </a>
