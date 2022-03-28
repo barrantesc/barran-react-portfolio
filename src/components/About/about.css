@@ -18,15 +18,39 @@
     font-size: 18px;
 }
 
-p {
+.a-desc p {
     width: 95%;
     line-height: 1.2;
     margin: 3.5%;
+}
+
+.a-skills{
+    padding-top: 20px;
+    margin-bottom: -10px;
+}
+
+ul{
+    padding-left: 160px;
+}
+
+.a-skill-list{
+    /* width: 95%; */
+    line-height: 1.2;
+    margin: 3.5%;
+    text-align: left;
+    
 }
  
  .a-button {
     display: flex;
     justify-content: center;
+    text-decoration: none;
+    color: #363636;
+ }
+
+ button{
+    background-color:#BCB4B4;
+    border-radius: 50%;
  }
 
 /* .a-card {
@@ -60,6 +84,10 @@ p {
     /* .a-card{
         height: 30vh;
     } */
+
+    ul{
+        padding: 0 0 0 120px;
+    }
 
     .a-Img {
         height: 200px;
