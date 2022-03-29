@@ -5,7 +5,7 @@ import { portfolio } from '../../data'
 
 const PortfolioList = () => {
   return (
-    <section className='pl'>PortfolioList
+    <section id='portfolio' className='pl'>PortfolioList
       <div className='pl-texts'>
         <h1 className='pl-title'> Create & inspire.</h1>
         <p className='pl-desc'> Write description about portfolio</p>
