@@ -8,7 +8,7 @@ import LinkedIn from '../../img/LI.png';
 const contact = () => {
 
   return (
-    <section className='c'>
+    <section id='contact' className='c'>
         <div className='c-wrapper'>
             <h1 className='c-title'>
                 Get in touch
