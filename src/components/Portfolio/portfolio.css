@@ -43,3 +43,9 @@ a {
         height: 110px;
     }
 }
+
+@media screen and (max-width:768px) {
+    .p{
+        height: 250px;
+    }
+}

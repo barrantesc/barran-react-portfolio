@@ -6,7 +6,7 @@ import Me from '../../img/Me.jpeg'
 const About = () => {
 
     return (
-        <section id='about' className="a">
+        <section id='about' className="a background">
             <div className="a-left">
                 <h1 className='a-title'>About Me</h1>
                 
@@ -30,7 +30,7 @@ const About = () => {
                         <button> Download CV </button> </a>
                 </div>
             </div>
-            <div className="a-right">
+            <div className="a-right ">
                 <div className='a-card bg'></div>
                 <div className='a-card'>
                     <img className="a-Img" src={Me} alt="Connie Smiling" />
