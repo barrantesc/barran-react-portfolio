@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/barran-react-porfolio/static/css/main.97ebc555.css",
+    "main.js": "/barran-react-porfolio/static/js/main.ae83d00e.js",
+    "static/js/787.a9a15f86.chunk.js": "/barran-react-porfolio/static/js/787.a9a15f86.chunk.js",
+    "static/media/weather-app.png": "/barran-react-porfolio/static/media/weather-app.36700058153944b01c8e.png",
+    "static/media/PurrfectFriend-img.gif": "/barran-react-porfolio/static/media/PurrfectFriend-img.dac8048258e2b2ca3df4.gif",
+    "static/media/sheet-show.png": "/barran-react-porfolio/static/media/sheet-show.513fdb2297a63da370fa.png",
+    "static/media/Planner-img.png": "/barran-react-porfolio/static/media/Planner-img.a24f1c0527ca4d6196ad.png",
+    "static/media/NoteTaker-img.png": "/barran-react-porfolio/static/media/NoteTaker-img.5253d32f0d60ff461b26.png",
+    "static/media/Quiz-img.png": "/barran-react-porfolio/static/media/Quiz-img.d898eab8869073000460.png",
+    "static/media/pinkFlower.jpeg": "/barran-react-porfolio/static/media/pinkFlower.9dcc75cdd5582289bc90.jpeg",
+    "static/media/Me.jpeg": "/barran-react-porfolio/static/media/Me.b7dfd1d41ad2d634ff71.jpeg",
+    "static/media/LI.png": "/barran-react-porfolio/static/media/LI.e437f5388378b0cb0947.png",
+    "static/media/GH.png": "/barran-react-porfolio/static/media/GH.b8b280ca8301e4ca5739.png",
+    "index.html": "/barran-react-porfolio/index.html",
+    "main.97ebc555.css.map": "/barran-react-porfolio/static/css/main.97ebc555.css.map",
+    "main.ae83d00e.js.map": "/barran-react-porfolio/static/js/main.ae83d00e.js.map",
+    "787.a9a15f86.chunk.js.map": "/barran-react-porfolio/static/js/787.a9a15f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ebc555.css",
+    "static/js/main.ae83d00e.js"
+  ]
+}
