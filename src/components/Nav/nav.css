@@ -42,12 +42,22 @@ a {
 
 @media screen and (max-width:480px) {
     .n{
-        height: 15%;
+        height: 21%;
+        z-index: 999;
+    }
+
+    .n-wrapper{
+        padding: 10px 0px 0 15px ;
+    }
+
+    h1{
+        /* display: none; */
     }
 
     .n-right ul li a {
-        font-size: 10px;
-        margin-left: -10px;
+        font-size: 15px;
+        
+        /* margin-left: -20px; */
     }
 }
 
