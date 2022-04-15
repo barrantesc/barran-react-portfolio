@@ -68,8 +68,12 @@
     }
 
     .i-left{
-        padding: 100px;
+        padding: 150px;
         text-align: center;
+    }
+
+    .i-left-wrapper{
+        padding: 0 10px;
     }
 
     .i-name{
