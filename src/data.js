@@ -3,7 +3,8 @@ import weatherApp from './img/weather-app.png'
 import purrfectFriend from './img/PurrfectFriend-img.gif'
 import noteTaker from './img/NoteTaker-img.png'
 import simplePlanner from './img/Planner-img.png'
-import timedQuiz from './img/Quiz-img.png'
+// import timedQuiz from './img/Quiz-img.png'
+import breakingCode from './img/BreakingCode.png'
 
 export const portfolio = [
     {
@@ -38,8 +39,8 @@ export const portfolio = [
     },
     {
         id: 6,
-        img: timedQuiz,
-        name: timedQuiz,
-        link: "https://barrantesc.github.io/Timed-Quiz/",
+        img: breakingCode,
+        name: breakingCode,
+        link: "https://drive.google.com/file/d/1knUzltOLtWmS9RDHPR3vc04HaphwGtPc/view",
     },
 ];
